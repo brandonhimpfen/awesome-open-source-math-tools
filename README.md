@@ -35,6 +35,7 @@
 - **[Maxima](https://maxima.sourceforge.io/)** - A system for symbolic computation and algebra.
 - **[GiNaC](https://www.ginac.de/)** - A C++ library for symbolic computations.
 - **[Reduce](http://reduce-algebra.sourceforge.io/)** - A portable general-purpose computer algebra system.
+- **[pydisks](https://github.com/AdvayRoongta/pydisks)** - A Python library for volumes and surface areas of solids of revolution (disc, washer, shell) using SymPy.
 
 ## Numerical Methods
 
